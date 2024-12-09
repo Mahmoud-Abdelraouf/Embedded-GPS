@@ -12,7 +12,7 @@ The GPS Distance Tracking System is an embedded system developed using the TM4C1
 - [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
-- [Contact](#contact)
+- [Team Members](#team-members)
 - [Baseline Path](#baseline-path)
 
 ## Description
