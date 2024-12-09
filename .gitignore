@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+
+# Debug files
+*.log
+*.dbg
+*.stackdump
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.swp
+*~
+*.sublime-workspace
+*.sublime-project
+*.DS_Store
+
+# Git-specific files
+*.orig
+
+# Test output
+/tests/output/
+
+# Markdown preview plugins or temp files
+*.glow
